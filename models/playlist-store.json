@@ -3,6 +3,7 @@
     {
       "id": "01",
       "title": "Beethoven Sonatas",
+      "rating": 3,
       "songs": [
         {
           "id": "04",
@@ -24,6 +25,7 @@
     {
       "id": "02",
       "title": "Beethoven Concertos",
+      "rating": 5,
       "songs": [
         {
           "id": "07",
@@ -45,6 +47,49 @@
     {
       "id": "03",
       "title": "Beethoven Unfinished Symphonies",
+      "rating": 4,
+      "songs": []
+    },
+    {
+      "id": "faedbcfd-9370-4237-aa05-2fbb22bd87c6",
+      "title": "test",
+      "date": "2026-03-27T13:37:19.022Z",
+      "rating": 1,
+      "songs": []
+    },
+    {
+      "id": "fd995db5-9650-458b-8264-f95ece4e799c",
+      "title": "proba",
+      "rating": 2,
+      "date": "2026-03-27T14:29:22.971Z",
+      "songs": []
+    },
+    {
+      "id": "1c3f9ffb-2673-4668-af7e-af624728cedb",
+      "title": "proba2",
+      "rating": 5,
+      "date": "2026-03-27T14:29:31.378Z",
+      "songs": []
+    },
+    {
+      "id": "574be96e-c4bb-4e29-bfd3-ef03b8faf024",
+      "title": "tt",
+      "rating": 1,
+      "date": "2026-03-27T14:34:45.645Z",
+      "songs": []
+    },
+    {
+      "id": "4a52c030-2484-497c-ab87-c74c317b704a",
+      "title": "ww",
+      "rating": 5,
+      "date": "2026-03-27T14:35:10.678Z",
+      "songs": []
+    },
+    {
+      "id": "a6e44eb3-fa70-4cb9-a785-2dadb652c655",
+      "title": "rating test",
+      "rating": 3,
+      "date": "2026-03-27T14:36:56.990Z",
       "songs": []
     }
   ]

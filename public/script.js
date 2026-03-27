@@ -11,10 +11,12 @@ $('#ratingSlider').slider({
   }
 });
 
-$('#ratingNumber').on('change', function() {
-  let val = parseInt($(this).val());
-  if (val >= 1 && val <= 5) {
-    $('#ratingSlider').slider('set value', val);
-    $('#ratingValue').val(val);
-  }
-});
+// slider
+
+// $('#ratingNumber').on('change', function() {
+//   let val = parseInt($(this).val());
+//   if (val >= 1 && val <= 5) {
+//     $('#ratingSlider').slider('set value', val);
+//     $('#ratingValue').val(val);
+//   }
+// });

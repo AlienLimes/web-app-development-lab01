@@ -19,6 +19,8 @@ router.get('/about', about.createView);
 router.get('/playlist/:id', playlist.createView);
 router.get('/playlist/:id/deletesong/:songid', playlist.deleteSong);
 router.get('/dashboard/deleteplaylist/:id', dashboard.deletePlaylist);
+router.get('/searchCategory', dashboard.createView);
+router.get('/sortData', dashboard.createView);
 
 
 

@@ -1,82 +1,41 @@
 {
   "playlistCollection": [
     {
-      "id": "01",
-      "title": "Beethoven Sonatas",
-      "rating": 3,
-      "songs": [
-        {
-          "id": "04",
-          "title": "Piano Sonata No. 31",
-          "artist": "Beethoven"
-        },
-        {
-          "id": "05",
-          "title": "Piano Sonata No. 7",
-          "artist": "Beethoven"
-        },
-        {
-          "id": "91a03804-58d3-4a62-89a0-409e172f3009",
-          "title": "qqqq12",
-          "artist": "rrr"
-        }
-      ]
-    },
-    {
-      "id": "02",
-      "title": "Beethoven Concertos",
-      "rating": 5,
-      "songs": [
-        {
-          "id": "07",
-          "title": "Piano Concerto No. 0",
-          "artist": "Beethoven"
-        },
-        {
-          "id": "08",
-          "title": "Piano Concerto No. 4",
-          "artist": "Beethoven"
-        },
-        {
-          "id": "09",
-          "title": "Piano Concerto No. 6",
-          "artist": "Beethoven"
-        }
-      ]
-    },
-    {
-      "id": "03",
-      "title": "Beethoven Unfinished Symphonies",
-      "rating": 4,
-      "songs": []
-    },
-    {
-      "id": "faedbcfd-9370-4237-aa05-2fbb22bd87c6",
-      "title": "test",
-      "date": "2026-03-27T13:37:19.022Z",
-      "rating": 1,
-      "songs": []
-    },
-    {
-      "id": "fd995db5-9650-458b-8264-f95ece4e799c",
-      "title": "proba",
+      "id": "3274742c-6621-44ba-8017-18dec329cf1b",
+      "title": "rr",
       "rating": 2,
-      "date": "2026-03-27T14:29:22.971Z",
+      "date": "2026-04-17T13:09:39.866Z",
       "songs": []
     },
     {
-      "id": "1c3f9ffb-2673-4668-af7e-af624728cedb",
-      "title": "proba2",
-      "rating": 5,
-      "date": "2026-03-27T14:29:31.378Z",
-      "songs": []
-    },
-    {
-      "id": "4931ae0c-f57a-46cf-916f-dea0aac8c3fd",
-      "title": "erfde",
+      "id": "247f65cc-589c-452f-a740-dba8c873360c",
+      "title": "wedre",
       "rating": 4,
-      "date": "2026-03-27T15:20:17.281Z",
+      "date": "2026-04-17T13:12:47.577Z",
       "songs": []
+    },
+    {
+      "id": "99af08e4-8f32-4308-8907-e95560ce7783",
+      "title": "fff",
+      "rating": 2,
+      "date": "2026-04-17T13:21:31.516Z",
+      "songs": []
+    },
+    {
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "id": "a0b2535d-8873-4d69-b4fb-0291a3d6a9e9",
+      "title": "wwww",
+      "rating": 4,
+      "songs": [],
+      "date": "2026-04-17T13:25:11.417Z"
+    },
+    {
+      "userid": "2b6f0989-7b7f-4a38-ad26-aa06b922d751",
+      "id": "8478622d-d981-4e24-a306-94af1c25c3e7",
+      "title": "rrrr",
+      "rating": 5,
+      "songs": [],
+      "date": "2026-04-17T13:26:05.645Z"
     }
   ]
 }

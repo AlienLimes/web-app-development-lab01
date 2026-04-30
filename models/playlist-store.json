@@ -30,12 +30,16 @@
       "date": "2026-04-17T13:25:11.417Z"
     },
     {
+      "id": "8eec89f3-0502-4167-a398-8d1f08c69b8c",
       "userid": "2b6f0989-7b7f-4a38-ad26-aa06b922d751",
-      "id": "8478622d-d981-4e24-a306-94af1c25c3e7",
-      "title": "rrrr",
-      "rating": 5,
+      "title": "teszt",
+      "rating": 3,
       "songs": [],
-      "date": "2026-04-17T13:26:05.645Z"
+      "date": "2026-04-30T08:40:12.974Z",
+      "picture": {
+        "url": "http://res.cloudinary.com/dn5jtpf74/image/upload/v1777538413/iz8tf69qveqkkytx0lgy.jpg",
+        "public_id": "iz8tf69qveqkkytx0lgy"
+      }
     }
   ]
 }

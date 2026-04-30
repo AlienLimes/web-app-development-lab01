@@ -1,20 +1,28 @@
 'use strict';
 import logger from "../utils/logger.js";
 import appStore from "../models/card.js";
+import accounts from './accounts.js';
 
 
 const about = {
-  createView(request, response) {
+ 
+createView(request, response) {
+    const loggedInUser = accounts.getCurrentUser(request);
     logger.info("About page loading!");
-   
-
+    
+    if (loggedInUser) {
       const viewData = {
-      title: "Playlist App About",
-      employees: appStore.getAppInfo()
-    };
-     response.render('about', viewData);
-     
-  },
+        title: 'About the Playlist App',
+        fullname: loggedInUser.firstName + ' ' + loggedInUser.lastName,
+        // employees: empStore.getEmployees(),
+        employees: appStore.getAppInfo()
+      };
+      response.render('about', viewData);
+    }
+    else response.redirect('/');    
+},
+
+
 };
 
 
